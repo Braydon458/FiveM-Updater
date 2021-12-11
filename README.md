@@ -12,3 +12,4 @@ Place the ``update.sh`` file in your FiveM server directory (where alpine and th
 ## [Notes](#notes)
 -   FiveM Updater is not pratical in most cases, but it works perfect for what i need it for.
 -   I am not responable for any damages to your FiveM server if you use this script.
+-   This is a linux only script, i do not plan to add supoort for windows.
